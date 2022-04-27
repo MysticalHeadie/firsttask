@@ -1,2 +1,4 @@
 # firsttask
-a project for submission at Side Hustle internship
+A project for submission at Side Hustle internship
+Team Leader: Daniel Olayonwa
+Assistant team leader: Samuel Tamunoateli
