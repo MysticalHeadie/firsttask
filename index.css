@@ -1,0 +1,268 @@
+body{
+    margin: 0;
+    background-color: rgb(24, 31, 42);
+    background-image: url(bg-curvy-mobile.svg);
+    background-repeat: no repeat;
+    background-position-y: 10.8;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(28, 36, 49);
+    cursor: pointer;
+}
+
+.li{
+    list-style-type: none;
+    color: white;
+}
+.ul{
+  display: flex;
+  width: 15rem;
+  justify-content: space-between;
+  padding-left: 0;
+  padding-right: 25;
+}
+
+.srt{
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: large;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.fylo{
+    background-color: aqua;
+    border: 10px solid aqua;
+    border-radius: 100px;
+    color: white;
+    text-align: center;
+}
+
+.get{
+    text-align: center;
+}
+
+.div2{
+    color: white;
+    text-align: center;
+}
+
+.div3{
+    color: white;
+    text-align: center;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 14px;
+}
+
+.div5{
+    color: white;
+    text-align: center;
+}
+
+.div6{
+    color: white;
+    text-align: center;
+}
+
+.div4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 14px;
+}
+
+.h{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+}
+
+.par{
+    color: white;
+    text-align: left;
+    font-size: small;
+}
+
+.div7{
+    float: left;
+    margin: 50px;
+}
+
+.trial{
+    float: left;
+    border: rgb(24, 31, 42);
+    margin: 100px;
+    width: 250px;
+    height: 300px;
+}
+
+.font{
+    font-size: 12px;
+    color: aqua;
+}
+
+.monials{
+    border: 50px rgb(24, 31, 42);
+    padding: 4px;
+    width: 250px;
+    margin: 50;
+    height: fit-content;
+    background-color: rgb(32, 42, 60);
+    box-shadow: 4px 4px 5px rgb(32, 42, 60);
+}
+
+.testi{
+    border: 50px rgb(24, 31, 42);
+    padding: 4px;
+    width: 250px;
+    margin: 50;
+    height: fit-content;
+    background-color:  rgb(32, 42, 60);
+    box-shadow: 4px 4px 5px  rgb(32, 42, 60);     
+}
+
+.work{
+    border: 50px rgb(24, 31, 42);
+    padding: 4px;
+    width: 250px;
+    margin: 50;
+    height: fit-content;
+    background-color:  rgb(32, 42, 60);
+    box-shadow: 4px 4px 5px  rgb(32, 42, 60);
+}
+
+.pro{
+    border-radius: 1rem;
+    width: 40px;
+    float: left;
+}
+
+.py{
+    text-align: justify;
+    font-size: 14px;
+}
+h4{
+    color: white;
+}
+
+.main{
+display: inline-flex;
+margin: 50px;
+background-image: url(bg-quotes.png);
+background-repeat: no-repeat;
+background-size: 100px;
+}
+
+.loc{
+    text-align: justify;
+    border: 50px rgb(24, 31, 42);
+    padding: 4px;
+    width: 250px;
+    height: fit-content;
+}
+
+
+.foot{
+    list-style: none;
+    color: white;
+    display: inline-flex;
+    justify-content: center
+}
+
+.final{
+    text-align: center
+}
+
+.brac{
+    border: 5px solid white;
+    width: 250px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.free{
+    border-radius: 5px solid aqua;
+    width: 250px;
+    height: 30px;
+    padding-top: 5px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration-color: aliceblue;
+}
+
+.fill{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 70px;
+    padding-top: 8px;
+    justify-content: space-between;
+}
+
+.index{
+    border: none;
+    width: 600px;
+    height: 200px;
+    margin-left: 350px;
+    background-color: rgb(32, 42, 60); position: absolute; top: 2100px;
+}
+
+.space{
+    border: 10px ;
+    width: 170px;
+    padding: 40px 40px;
+}
+
+.probz{
+    border: 10px ;
+    width: 170px;
+    padding: 40px 40px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+.inner{
+    list-style: none;
+}
+
+.in{
+    list-style: none;
+    text-justify: auto;
+}
+
+.inn{
+    list-style: none;
+    display: inline-flex;
+}
+
+.solu{
+    display: inline-flex;
+}
+
+.footer{
+    background-color: rgb(11, 21, 35)
+}
